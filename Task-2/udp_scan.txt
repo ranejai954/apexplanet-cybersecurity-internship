@@ -1,0 +1,18 @@
+# Nmap 7.95 UDP Scan Results
+# Target: 192.168.225.85
+# Date: July 26, 2026
+# Command: nmap -sU 192.168.225.85 -oN udp_scan.txt
+
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-07-26 06:28 EDT
+Nmap scan report for 192.168.225.85
+Host is up (0.0066s latency).
+Not shown: 995 open|filtered udp ports (no-response)
+
+PORT     STATE    SERVICE
+53/udp   open     domain
+111/udp  open     rpcbind
+137/udp  open     netbios-ns
+2049/udp open     nfs
+38412/udp open    unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 5.62 seconds
