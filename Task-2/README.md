@@ -146,7 +146,6 @@ Task-2_Network_Security_Scanning/
 │   ├── 01_Nmap_Scan_Report.pdf
 │   ├── 02_OpenVAS_Report.pdf
 │   ├── 03_Packet_Analysis_Report.pdf
-│   └── 04_Firewall_Demo_Report.pdf
 │
 ├── Scan_Results/
 │   ├── tcp_scan.txt
@@ -157,8 +156,6 @@ Task-2_Network_Security_Scanning/
 │   ├── full_scan.xml
 │   └── full_scan.gnmap
 │
-├── Captures/
-│   └── wireshark_traffic.pcapng
 │
 ├── Scripts/
 │   └── firewall_rules.sh
@@ -170,11 +167,8 @@ Task-2_Network_Security_Scanning/
 │   ├── syn_flood.png
 │   └── firewall_blocking.png
 │
-├── Media/
-│   └── demo_video.mp4
 │
-├── README.md
-└── TASK_2_Submissions_Checklist.md
+└── README.md 
 ```
 
 ---
