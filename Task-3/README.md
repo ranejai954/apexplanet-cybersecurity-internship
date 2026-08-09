@@ -441,24 +441,6 @@ Screenshots/
 
 ---
 
-# 🎬 Demonstration Video
-
-**Demo Video:** `[Add your video link here]`
-
-### Video Timeline
-
-| Time          | Demonstration                |
-| ------------- | ---------------------------- |
-| `00:00–01:00` | DVWA setup and configuration |
-| `01:00–02:30` | SQL Injection                |
-| `02:30–04:00` | Reflected + Stored XSS       |
-| `04:00–05:30` | CSRF                         |
-| `05:30–06:30` | Local File Inclusion         |
-| `06:30–07:30` | Burp Suite                   |
-| `07:30–08:00` | Findings and recommendations |
-
----
-
 # 📚 References
 
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/)
@@ -476,7 +458,7 @@ Screenshots/
 
 | Field         | Details                           |
 | ------------- | --------------------------------- |
-| **Intern ID** | ASPL2518045                       |
+| **Intern ID** | ASPL2641663                       |
 | **Task**      | Web Application Security — Task 3 |
 | **Date**      | 08 August 2026                    |
 
@@ -500,4 +482,4 @@ The repository contains the assessment report, payloads, defensive examples, sec
 
 ---
 
-**© 2026 Rohan Patil — Web Application Security Assessment**
+**© 2026 Jai Rane — Web Application Security Assessment**
