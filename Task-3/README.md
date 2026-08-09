@@ -79,8 +79,8 @@ Task-3_WebApp_Security/
 ├── Screenshots/
 │
 ├── Payloads/
-│   ├── sqli_payloads.txt
-│   ├── xss_payloads.txt
+│   ├── sqli_payloads.md
+│   ├── xss_payloads.md
 │   └── csrf_attack.html
 │
 ├── Fixes/
